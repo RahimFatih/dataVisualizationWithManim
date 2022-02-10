@@ -1,1 +1,1 @@
-# dataVisualizationWithManim
+# Data Visualization with Manim
